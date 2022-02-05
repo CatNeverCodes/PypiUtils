@@ -1,0 +1,6 @@
+config = {
+    "dingtalk": {
+        "webhook": "",
+        "mobiles": [""]
+    },
+}
